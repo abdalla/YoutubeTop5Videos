@@ -1,4 +1,4 @@
-# Youtube Top 5 Videos - ReactJS (based on )
+# Youtube Top 5 Videos - ReactJS
 
 ```
 	> npm install
